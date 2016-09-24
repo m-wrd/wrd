@@ -1,0 +1,19 @@
+body {
+    padding-top: 10%; 
+    background: #eee 
+}
+
+.container {
+    text-align: center
+} 
+
+.caption {
+    font-family: "Open Sans", sans-serif;
+    font-size: .85em;
+}
+
+#banner {
+    width: 200px;
+    margin-left: -95px;
+    margin-bottom: -35px
+}
